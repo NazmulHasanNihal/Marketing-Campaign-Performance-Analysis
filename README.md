@@ -1,23 +1,32 @@
-# Marketing Campaign Performance Analysis
+# 📊 Marketing Campaign Performance Analysis
 This project analyzes `real-world marketing campaigns` to evaluate return on investment, `cost-efficiency`, `audience targeting`, and `platform performance`. Builting Excel dashboards. it is designed to answer key marketing strategy questions for a retail e-commerce company operating across multiple channels and regions.
 
-## Business Objective
+## 📌 Business Objective
 The leadership team wants to optimize marketing spend by understanding which `campaigns`, `platforms`, `countries`, and `customer segments` bring the most value — measured in `terms of conversions`, `revenue`, `ROI`, and `cost per acquisition`.
 
-## Business Questions
+## ❓ Business Questions
 
-**1.** Which campaign types deliver the highest ROI and lowest CAC?	
+**1.** Which campaign types deliver the highest ROI and lowest CAC?
+
 **2.** Are some platforms underperforming despite high spend?	
-**3.** Which countries are giving best returns on investment?	
-**4.** What are the most profitable age and gender segments?	
+
+**3.** Which countries are giving best returns on investment?
+
+**4.** What are the most profitable age and gender segments?
+
 **5.** Are longer campaigns more effective than short ones?	
+
 **6.** Are there seasonal patterns in ROI or revenue?	
-**7.** Does higher spend correlate with more conversions?	
+
+**7.** Does higher spend correlate with more conversions?
+
 **8.** Who are the top-performing campaigns overall?	
+
 **9.** What share of budget goes to which platform or country?	
+
 **10.** Which campaigns are under- or over-performing against the average?	
 
-## KPIs & Metrics
+## 📊 KPIs & Metrics
 | Metric                  | Formula                          | Why It Matters                                 |
 | ----------------------- | --------------------------------- | ---------------------------------------------- |
 | `Conversion Rate (%)` | `(Conversions / Leads) × 100`       | `Measures effectiveness of lead conversion`      |
@@ -53,11 +62,11 @@ The leadership team wants to optimize marketing spend by understanding which `ca
 
 - `🌐 Canada shows exceptional ROI with moderate spend — a potential growth market.`
 
-## Tools Used
+## 🧰 Tools Used
 
 - **Excel:** KPI calculations, PivotTables, dynamic slicers, conditional formatting, dashboard layout
 
-## Dataset Description
+## 📂 Dataset Description
 
 | Field                         | Type        | Description                       |
 | ----------------------------- | ----------- | --------------------------------- |
@@ -70,11 +79,11 @@ The leadership team wants to optimize marketing spend by understanding which `ca
 | `Spend, Revenue`                | `Numeric`     | `Financial performance`             |
 | `Leads, Conversions, Customers` | `Numeric`     | `Conversion funnel values`          |
 
-## Dashboard Preview
+## 🖼 Dashboard Preview
 
 ![Alt Text](Dashboard.png)
 
-## Recommendations
+## 🏆 Recommendations
 
 - `Focus future spend on Google Ads and Instagram Ads`
 
